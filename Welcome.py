@@ -1,6 +1,6 @@
 
 from random import choices
-from tkinter.tix import Select
+
 import pandas as pd
 import numpy as np
 import streamlit as st
